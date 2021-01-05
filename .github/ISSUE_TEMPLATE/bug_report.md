@@ -7,32 +7,34 @@ assignees: ''
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+** 이슈 설명 **
+이슈가 무엇인지에 대한 명확하고 간결한 설명
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+** 재현 **
+동작을 재현하는 단계 :
+1. '...'로 이동
+2. '....'를 클릭하십시오.
+3. '....'까지 아래로 스크롤합니다.
+4. 오류 참조
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+** 예상 동작 **
+예상했던 일에 대한 명확하고 간결한 설명
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+** 스크린 샷 **
+문제를 설명하는 데 도움이되는 화면
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
+** 데스크톱 **
+ -OS : [예 : iOS]
+ -브라우저 [예 : 크롬, 사파리]
+ -버전 [예 : 22]
 
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
+** 스마트 폰 **
+ -기기 : [예 : 아이폰 6]
+ -OS : [예 : iOS8.1]
+ -브라우저 [예 : 사파리, 크롬]
+ -버전 [예 : 22]
 
-**Additional context**
-Add any other context about the problem here.
+** 참고 **
+문제에 대한 다른 컨텍스트 추가
+논의 또는 결정사항에 대한 기록
+
