@@ -1,6 +1,6 @@
 ---
-name: Bug report
-about: Create a report to help us improve
+name: 버그가 발생했슴다
+about: 버그입니돠
 title: ''
 labels: ''
 assignees: ''
